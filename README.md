@@ -28,7 +28,7 @@ To get started with Git LFS, the following commands can be used.
  2. Choose the type of files you want to track, for examples all ISO                                    
     images, with git lfs track:                                                                         
                                                                                                         
-        git lfs track "*.iso"                                                                           
+        git lfs track "*.apk"                                                                           
                                                                                                         
  3. The above stores this information in gitattributes(5) files, so                                     
     that file need to be added to the repository:                                                       
